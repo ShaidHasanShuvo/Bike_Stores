@@ -24,7 +24,7 @@ Welcome to the Bike Store Dataset Repository! This repository contains data, SQL
 
 ## Feedback and Contributions
 
-We welcome any feedback or contributions to improve this repository. If you have suggestions, enhancements, or additional analysis you'd like to share, please feel free to open an issue or submit a pull request.
+We welcome any feedback or contributions to improve this repository. If you have suggestions, enhancements, or additional analysis you'd like to share, please feel free to open an issue or submit a pull request. [Github](https://github.com/ShaidHasanShuvo) [Linkedin](https://www.linkedin.com/in/md-shaid-hasan-shuvo-6bb548218/)
 
 ## License
 
@@ -32,5 +32,3 @@ This repository is licensed under the MIT License. You are free to use, modify, 
 
 ---
 
-Feel free to customize this README file according to your specific repository structure and requirements. Let me know if you need further assistance!
-[Github](https://github.com/ShaidHasanShuvo) [Linkedin](https://www.linkedin.com/in/md-shaid-hasan-shuvo-6bb548218/)
